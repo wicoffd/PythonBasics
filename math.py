@@ -1,0 +1,6 @@
+print(8/5 )
+print('8/5 division returns a float')
+print(17//3)
+print('17 // 3 floor division')
+print( 5**3)
+print('5**3 double * operator is used for calculating powers')
